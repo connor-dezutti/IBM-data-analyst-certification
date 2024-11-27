@@ -1,2 +1,1 @@
-# pythoncourse5project
-Python Project for Course 5 of IBM Data Analyst Cert program
+A collection of applied projects completed as part of the IBM Data Analyst Professional Certification program available on Coursera.
